@@ -1,0 +1,14 @@
+Przetwarzanie obrazów:
+Zmiana kontrastu, jasności, gamma
+Przesuwanie histogramu, wyrównanie histogramu (shifting, equalization)
+Zmiana rozmiaru obrazu
+Obrót obrazu o dowolny kąt
+Użyj płynnej regulacji parametrów dla powyższych parametrów
+Rysowanie Histogramu
+Konwersja do trybu odcieni szarości (3 metody)
+Konwersja do obrazu czarno-białego
+Negatyw i inwersja obrazu
+Detekcja krawędzi
+Efekty (3 rodzaje)
+Filtracja (3 rodzaje filtrów)
+Filtracja kolorów (z wyborem koloru do odfiltrowania)
